@@ -63,5 +63,5 @@ insert into usuarios
 (nome, data_nascimento, email, senha)
 values
 ('Tate I. Dean', '	1989-05-01', 'Nunc@etmagnis.edu', 'd3V25D6Y'),
-('Arsenio K. Harmon', '1985-10-23', 'adipiscing.elit@turpis.com', 'm3T58S0C');
+('Arsenio K. Harmon', '1985-10-23', 'adipiscing.elit@turpis.com', 'm3T58S0C ');
 
